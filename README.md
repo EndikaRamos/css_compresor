@@ -6,7 +6,7 @@ Nota: Los CSS que se encuentran dentro de la carpeta css/ son copiados de getboo
 
 Ejemplo de Uso (HTML)
 ```
-//In this example your http server listen on port 3000.
+//Lo declaramos como siempre
 <link rel="stylesheet" type="text/css" href="/css/css.php" />
 ```
 
